@@ -1,0 +1,41 @@
+{
+  "item.galaxia.galaxium_fragment": "Fragment de Galaxium",
+  "item.galaxia.galaxium": "Galaxium",
+  "block.galaxia.galaxium_block": "Bloc de Galaxium",
+  "block.galaxia.galaxium_ore": "Minerais de Galaxium",
+
+  "item.galaxia.galaxium_helmet": "Casque en Galaxium",
+  "item.galaxia.galaxium_chestplate": "Plastron en Galaxium",
+  "item.galaxia.galaxium_leggings": "Jambières en Galaxium",
+  "item.galaxia.galaxium_boots": "Bottes en Galaxium",
+
+  "item.galaxia.galaxium_pickaxe": "Pioche en Galaxium",
+  "item.galaxia.galaxium_axe": "Hache en Galaxium",
+  "item.galaxia.galaxium_shovel": "Pelle en Galaxium",
+  "item.galaxia.galaxium_hammer": "Marteau en Galaxium",
+  "item.galaxia.galaxium_hoe": "Houe en Galaxium",
+  "item.galaxia.galaxium_sword": "Épée en Galaxium",
+
+  "item.galaxia.bismuth": "Bismuth",
+  "block.galaxia.bismuth_block": "Bloc de Bismuth",
+  "block.galaxia.bismuth_ore": "Minerais de Bismuth",
+
+  "item.galaxia.iron_stick": "Baton en Fer",
+  "item.galaxia.diamond_stick": "Baton en Diamant",
+  "item.galaxia.moon_stick": "Baton de Lune",
+
+  "item.galaxia.test_helmet": "Test Helmet",
+
+  "block.galaxia.gem_infuser": "Infuseur de Gemmes",
+
+  "block.galaxia.end_block": "Bloc de l'End",
+  "block.galaxia.moon_cobble": "Pierre de la Lune",
+  "block.galaxia.moon_stone": "Roche de la Lune",
+  "block.galaxia.moon_sand": "Sable de la Lune",
+  "block.galaxia.moon_grass": "Herbe de la Lune",
+  "block.galaxia.moon_dirt": "Terre de la Lune",
+
+  "creativemodetab.galaxia_items_tab": "Items Galaxia",
+  "creativemodetab.galaxia_tools": "Outils Galaxia",
+  "creativemodetab.galaxia_blocks_tab": "Blocks Galaxia"
+}

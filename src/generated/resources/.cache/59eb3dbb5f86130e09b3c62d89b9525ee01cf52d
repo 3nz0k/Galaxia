@@ -1,0 +1,12 @@
+// 1.19.4	2024-04-11T21:58:11.2757535	Loot Tables
+613f1ccea72cb29e6d99bc4f9cdcfd48a668e850 data/galaxia/loot_tables/blocks/bismuth_block.json
+6badd6d38ef2715437114d5d219e66ef8a84bf2a data/galaxia/loot_tables/blocks/bismuth_ore.json
+9b396a41703986d078251949ed336cc8df0abbda data/galaxia/loot_tables/blocks/end_block.json
+afb36fbdbf242aa674c21b778772d63a98deba01 data/galaxia/loot_tables/blocks/galaxium_block.json
+ff50a9e03404be152a14fc4a62bfeaa63b4e433a data/galaxia/loot_tables/blocks/galaxium_ore.json
+3be565dd68f78c5cf990d4f3e3747c4e268cfd9e data/galaxia/loot_tables/blocks/gem_infuser.json
+377665feddc75fccad1abba97c860156ad4cdb10 data/galaxia/loot_tables/blocks/moon_cobble.json
+c47ac5a93221637195b8d9d18097bc43320a4c1b data/galaxia/loot_tables/blocks/moon_dirt.json
+0f56174a922c83fafacfc3320c84622e295fd049 data/galaxia/loot_tables/blocks/moon_grass.json
+9d597c07d553b4de9d88c5f68643c7d349c128ba data/galaxia/loot_tables/blocks/moon_sand.json
+39736b3db27ee18030b4f6dcf2e0a6107a7de764 data/galaxia/loot_tables/blocks/moon_stone.json

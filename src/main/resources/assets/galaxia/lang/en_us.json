@@ -1,0 +1,42 @@
+{
+  "item.galaxia.galaxium_fragment": "Galaxium Fragment",
+  "item.galaxia.galaxium": "Galaxium",
+  "block.galaxia.galaxium_block": "Galaxium Block",
+  "block.galaxia.galaxium_ore": "Galaxium Ore",
+
+  "item.galaxia.test_helmet": "Test Helmet",
+
+  "item.galaxia.galaxium_helmet": "Galaxium Helmet",
+  "item.galaxia.galaxium_chestplate": "Galaxium Chestplate",
+  "item.galaxia.galaxium_leggings": "Galaxium Leggings",
+  "item.galaxia.galaxium_boots": "Galaxium Boots",
+
+  "item.galaxia.galaxium_pickaxe": "Galaxium Pickaxe",
+  "item.galaxia.galaxium_axe": "Galaxium Axe",
+  "item.galaxia.galaxium_shovel": "Galaxium Shovel",
+  "item.galaxia.galaxium_hammer": "Galaxium Hammer",
+  "item.galaxia.galaxium_hoe": "Galaxium Hoe",
+  "item.galaxia.galaxium_sword": "Galaxium Sword",
+
+  "item.galaxia.bismuth": "Bismuth",
+  "block.galaxia.bismuth_block": "Bismuth Block",
+  "block.galaxia.bismuth_ore": "Bismuth Ore",
+
+  "block.galaxia.gem_infuser": "Gem Infuser",
+
+  "item.galaxia.iron_stick": "Iron Stick",
+  "item.galaxia.diamond_stick": "Diamond Stick",
+  "item.galaxia.moon_stick": "Moon Stick",
+
+  "block.galaxia.end_block": "End Block",
+  "block.galaxia.moon_cobble": "Moon Cobble",
+  "block.galaxia.moon_stone": "Moon Stone",
+  "block.galaxia.moon_sand": "Moon Sand",
+  "block.galaxia.moon_grass": "Moon Grass",
+  "block.galaxia.moon_dirt": "Moon Dirt",
+
+  "creativemodetab.galaxia_items_tab": "Galaxia Items",
+  "creativemodetab.galaxia_tools": "Galaxia Tools",
+  "creativemodetab.galaxia_armors": "Galaxia Armors",
+  "creativemodetab.galaxia_blocks_tab": "Galaxia Blocks"
+}
